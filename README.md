@@ -47,7 +47,20 @@ Execution evidence captured during manual testing.
 - TC_PRODUCT_002
 - TC_PERFORMANCE_001
 
+## Automation
+
+A Selenium WebDriver proof of concept was developed using Java and Maven to validate the SauceDemo purchase flow.
+
+Location:
+src/test/java/PrimerTest.java
+
 ## Author
 
-Karina Saavedra Gomez
-Senior Software QA Analyst | Automation | QA Strategist | Fintech | APIs & E2E | AI-Driven Testing | Microservices
+Karina Saavedra Gómez
+
+Senior QA Analyst with experience in:
+- Manual Testing
+- API Testing
+- End-to-End Testing
+- Banking & Fintech Solutions
+- Test Strategy and Quality Assurance
